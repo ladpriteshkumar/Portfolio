@@ -1,0 +1,30 @@
+.header {
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    background-color: aquamarine;
+    width: 99%;
+    padding: 10px;
+    
+ }
+ .container{
+     margin-top: 80px;
+     position: absolute;
+     width: 100%;
+     left: 0;
+     background-color: blueviolet;
+     overflow-x: hidden;
+ }
+ .footer{            
+     width: 100%;
+     left: 0;
+     background-color: rgb(43, 226, 52);
+     padding: 10px;
+ }
+
+ .margin0{
+     margin: 0 0 0 0;
+ }
+
+ ol li{margin-bottom:20px;}
