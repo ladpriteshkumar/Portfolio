@@ -39,14 +39,12 @@
 
  .container{
      margin-top: 150px;
-     margin-left: 80px;
-     margin-right: 80px;
      position: absolute;
      /*width: 100%;*/
      left: 0;
      background-color: rgb(245, 238, 181);
      overflow-x: hidden;
-     padding: 50px;
+     padding: 0 30;
  }
  .footer{            
      left: 0;
@@ -73,4 +71,10 @@
      padding: 15px;
     background-color: rgb(156, 184, 235);
     /*border-bottom: 5px dotted rgb(255, 145, 0);*/
+ }
+
+ .expContent{
+    padding: 15px;
+    background-color: rgb(223 255 255);
+    border-bottom: 5px dotted rgb(255, 145, 0);
  }
